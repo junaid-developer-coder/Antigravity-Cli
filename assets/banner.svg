@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="antigravity-cli-setup">
+  <rect width="1280" height="320" fill="#14163A"/>
+  <g transform="translate(70 40) scale(.47)">
+    <path d="M146 232a110 110 0 0 1 220 0z" fill="#5FE3D8"/>
+    <path d="M206 168v-34M256 148v-52M306 168v-34" stroke="#7DF2E6" stroke-width="10" stroke-linecap="round" opacity=".55"/>
+    <path d="M146 290a110 110 0 0 0 220 0z" fill="#6F5DF0"/>
+    <ellipse cx="256" cy="430" rx="74" ry="9" fill="#000" opacity=".35"/>
+  </g>
+  <text x="330" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#F2EFFF">antigravity-cli-setup</text>
+  <text x="332" y="210" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" fill="#A9A6D6">Verified installers for the agy CLI on Windows and Linux</text>
+</svg>
