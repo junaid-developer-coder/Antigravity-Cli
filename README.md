@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/antigravity_banner.png" alt="antigravity-cli-setup" width="100%">
+  <img src="assets/logo.png" alt="antigravity-cli-setup" width="100%">
 </p>
 
 # antigravity-cli-setup
@@ -18,6 +18,8 @@ git clone https://github.com/YOUR-USER/antigravity-cli-setup.git
 cd antigravity-cli-setup
 ./scripts/install.sh
 ```
+
+<img src="assets/antigravity_banner.png" alt="antigravity-cli-setup" width="100%">
 
 **Windows (PowerShell)**
 
