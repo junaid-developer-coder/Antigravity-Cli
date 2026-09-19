@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="antigravity-cli-setup" width="100%">
+  <img src="assets/antigravity_logo.png" alt="antigravity-cli-setup" width="60%">
 </p>
 
 # antigravity-cli-setup
